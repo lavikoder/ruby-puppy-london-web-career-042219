@@ -1,5 +1,5 @@
 class Dog
-def ini
+def initialize
 
 
 
